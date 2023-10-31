@@ -45,13 +45,20 @@ Follow these steps to get started with the application:
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/yourusername/mern-stack-app.git
-   cd mern-stack-app
+   git clone https://github.com/UsamaUthman/Thread-clone
+   cd Thread-clone
    npm install (Install dependencies.)
-   npm start (Start the application.)
-   
 
+2. start server
 
+   ```bash
+   cd server-side
+   npm run server
+3. start client
+
+   ```bash
+   cd client-side
+   npm run dev
 
 <!-- Contact -->
 ## Contact
