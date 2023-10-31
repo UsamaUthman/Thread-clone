@@ -68,7 +68,7 @@ If you have any questions or need further assistance, please feel free to reach 
 **Your Name**  
 - Email: [osama.mhaleam@gmail.com](mailto:osama.mhaleam@gmail.com)
 - GitHub: [https://github.com/UsamaUthman](https://github.com/UsamaUthman)
-- LinkedIn: [https://www.linkedin.com/in/usama-uthamn-393739271/]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/usama-uthamn-393739271/))
+- LinkedIn: [https://www.linkedin.com/in/usama-uthamn-393739271/](https://www.linkedin.com/in/usama-uthamn-393739271/)
 
 
 Feel free to contact us with any feedback, questions, or collaboration opportunities. We appreciate your interest in our project!
