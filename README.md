@@ -65,7 +65,7 @@ Follow these steps to get started with the application:
 
 If you have any questions or need further assistance, please feel free to reach out to us. We're here to help!
 
-**Your Name**  
+**Usama Uthman**  
 - Email: [osama.mhaleam@gmail.com](mailto:osama.mhaleam@gmail.com)
 - GitHub: [https://github.com/UsamaUthman](https://github.com/UsamaUthman)
 - LinkedIn: [https://www.linkedin.com/in/usama-uthamn-393739271/](https://www.linkedin.com/in/usama-uthamn-393739271/)
